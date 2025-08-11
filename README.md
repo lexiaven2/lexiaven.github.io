@@ -1,4 +1,4 @@
-<html>
+
   <body bgcolor = "D2B48C">
   <head>
     <h1>Tekton Construction, LLC</h1>
